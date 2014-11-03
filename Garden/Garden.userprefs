@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/lumberjackDestroy.cs">
+    <Files>
+      <File FileName="Assets/Scripts/gardenerMove.cs" Line="24" Column="1" />
+      <File FileName="Assets/Scripts/gardenerPlantAngle.cs" Line="8" Column="2" />
+      <File FileName="Assets/Scripts/gardenerPlantTime.cs" Line="16" Column="2" />
+      <File FileName="Assets/Scripts/lumberjackDestroy.cs" Line="12" Column="22" />
+      <File FileName="Assets/Scripts/lumberMove.cs" Line="6" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
